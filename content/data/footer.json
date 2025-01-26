@@ -80,7 +80,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/url",
             "icon": "mail",
             "type": "Social"
         }
@@ -88,7 +88,7 @@
     "legalLinks": [
         {
             "label": "Terms",
-            "url": "/",
+            "url": "/url",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -96,7 +96,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "/url",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

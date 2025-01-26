@@ -4,16 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Empowering Your Digital Journey
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Transform Your Digital Presence
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      TechApptitude helps you break through the barriers of digital marketing. With our specialized Meta advertising and SEO optimization services, we ensure your business or brand reaches its full potential. Whether you're a small business or an influencer, we craft strategies that maximize visibility, engagement, and growth—allowing you to focus on what matters most: success. Our tailored services and expert guidance make digital marketing seamless, empowering you to stay ahead in a competitive online world.
     actions:
-      - label: Get started
+      - label: See Services
         altText: ''
         url: /
         showIcon: false
@@ -22,14 +20,14 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: See Pricing
         altText: ''
-        url: /
+        url: /pricing
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ''
+        elementId: hero
         type: Link
     media:
       url: /images/main-hero.svg
@@ -37,7 +35,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Tech Apptitude
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,23 +51,23 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Our Services
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Marketing services for every need
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: Ad Management (Basic Package)
+        subtitle: 500k
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         actions: []
-        elementId: null
+        elementId: services
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -90,8 +88,8 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: Ad Optimization (Audit + Strategy)
+        subtitle: 20x
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -115,8 +113,31 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: Advanced Consulting/Coaching
+        subtitle: 200%
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
+      - title: Premium Service Add-ons
+        subtitle: 200%
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -139,7 +160,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Button
         altText: ''
         url: /
         showIcon: false

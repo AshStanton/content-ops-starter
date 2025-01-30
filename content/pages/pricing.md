@@ -88,7 +88,9 @@ sections:
           - >-
             Email List Building: We will help you generate leads and build email
             lists.
-          - Feature three
+          - >-
+            Retargeting Campaigns: Set up retargeting ads to recapture users who
+            didn’t convert initially.
           - Feature four
           - Feature five
         image:

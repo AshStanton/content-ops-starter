@@ -82,7 +82,9 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
         features:
-          - Feature one
+          - >-
+            Landing Page Optimization: Improve conversion rates by optimizing
+            landing pages.
           - Feature two
           - Feature three
           - Feature four

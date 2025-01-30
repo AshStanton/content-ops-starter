@@ -92,7 +92,7 @@ sections:
             Retargeting Campaigns: Set up retargeting ads to recapture users who
             didn’t convert initially.
           - 'Social Media Strategy: Offer broader social media strategy services.'
-          - Feature five
+          - ''
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3

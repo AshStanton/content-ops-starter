@@ -85,7 +85,9 @@ sections:
           - >-
             Landing Page Optimization: Improve conversion rates by optimizing
             landing pages.
-          - Feature two
+          - >-
+            Email List Building: We will help you generate leads and build email
+            lists.
           - Feature three
           - Feature four
           - Feature five

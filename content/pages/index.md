@@ -9,7 +9,14 @@ sections:
       type: TitleBlock
     subtitle: Transform Your Digital Presence
     text: >
-      TechApptitude helps you break through the barriers of digital marketing. With our specialized Meta advertising and SEO optimization services, we ensure your business or brand reaches its full potential. Whether you're a small business or an influencer, we craft strategies that maximize visibility, engagement, and growth—allowing you to focus on what matters most: success. Our tailored services and expert guidance make digital marketing seamless, empowering you to stay ahead in a competitive online world.
+      TechApptitude helps you break through the barriers of digital marketing.
+      With our specialized Meta advertising and SEO optimization services, we
+      ensure your business or brand reaches its full potential. Whether you're a
+      small business or an influencer, we craft strategies that maximize
+      visibility, engagement, and growth—allowing you to focus on what matters
+      most: success. Our tailored services and expert guidance make digital
+      marketing seamless, empowering you to stay ahead in a competitive online
+      world.
     actions:
       - label: See Services
         altText: ''
@@ -61,11 +68,14 @@ sections:
     items:
       - type: FeaturedItem
         title: Ad Management (Basic Package)
-        subtitle: 1,000–1,500 Per month
+        subtitle: '1,000–1,500 Per month'
         text: >-
-          Tech Apptitude can help you select the right ad platforms and tailor your ad strategy to fit the right demographic. We will help you edit your ads to hook more clients and monitor campaigns weekly or bi-weekly.
+          Tech Apptitude can help you select the right ad platforms and tailor
+          your ad strategy to fit the right demographic. We will help you edit
+          your ads to hook more clients and monitor campaigns weekly or
+          bi-weekly.
         actions: []
-        elementId: 
+        elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -87,11 +97,15 @@ sections:
             self:
               borderRadius: x-large
       - title: Ad Optimization (Audit + Strategy)
-        subtitle: 500-1,000 (one-time payment)
+        subtitle: '500-1,000 (one-time payment)'
         text: >-
-          We will review current ad campaigns on your platforms and identify areas for improvement, run you a competitor analysis to assess competitors' ads and strategies to provide insights and suggest new optimisation strategies.
+          We will review current ad campaigns on your platforms and identify
+          areas for improvement, run you a competitor analysis to assess
+          competitors' ads and strategies to provide insights and suggest new
+          optimisation strategies.
 
-          Tech Apptitude will then walk you through our findings and guide you on how to implement them.
+          Tech Apptitude will then walk you through our findings and guide you
+          on how to implement them.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -113,12 +127,25 @@ sections:
         type: FeaturedItem
       - title: Premium Service Add-ons
         subtitle: Contact us for a quote
-        text: >-
+        text: >+
           Our Premium services include:
-          - Landing Page Optimization: Improve conversion rates by optimizing landing pages.
-          - Email List Building: We will help you generate leads and build email lists.
-          - Retargeting Campaigns: Set up retargeting ads to recapture users who didn’t convert initially.
-          - Social Media Strategy: Offer broader social media strategy services.
+
+
+          *   Landing Page Optimization: Improve conversion rates by optimizing
+          landing pages.
+
+
+          *   Email List Building: We will help you generate leads and build
+          email lists.
+
+
+          *   Retargeting Campaigns: Set up retargeting ads to recapture users
+          who didn’t convert initially.
+
+
+          *   Social Media Strategy: Offer broader social media strategy
+          services.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -433,7 +460,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -462,7 +490,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -521,7 +550,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -550,7 +580,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -644,8 +675,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image

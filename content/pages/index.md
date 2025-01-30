@@ -91,7 +91,6 @@ sections:
         subtitle: 500-1,000 (one-time payment)
         text: >-
           We will review current ad campaigns on your platforms and identify areas for improvement, run you a competitor analysis to assess competitors' ads and strategies to provide insights and suggest new optimisation strategies.
-          
           Tech Apptitude will then walk you through our findings and guide you on how to implement them.
         image:
           url: /images/icon2.svg
@@ -116,7 +115,6 @@ sections:
         subtitle: Contact us for a quote
         text: >-
           Our Premium services include:
-
           - Landing Page Optimization: Improve conversion rates by optimizing landing pages.
           - Email List Building: We will help you generate leads and build email lists.
           - Retargeting Campaigns: Set up retargeting ads to recapture users who didn’t convert initially.

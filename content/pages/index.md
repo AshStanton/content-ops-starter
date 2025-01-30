@@ -115,10 +115,10 @@ sections:
         subtitle: Contact us for a quote
         text: >-
           Our Premium services include:
-          - Landing Page Optimization: Improve conversion rates by optimizing landing pages.
-          - Email List Building: We will help you generate leads and build email lists.
-          - Retargeting Campaigns: Set up retargeting ads to recapture users who didn’t convert initially.
-          - Social Media Strategy: Offer broader social media strategy services.
+          * Landing Page Optimization: Improve conversion rates by optimizing landing pages.
+          * Email List Building: We will help you generate leads and build email lists.
+          * Retargeting Campaigns: Set up retargeting ads to recapture users who didn’t convert initially.
+          * Social Media Strategy: Offer broader social media strategy services.
         image:
           url: /images/icon3.svg
           altText: Featured icon three

@@ -45,7 +45,7 @@ sections:
         type: PricingPlan
       - title: Ad Optimization (Audit + Strategy)
         price: '500-1,000'
-        details: per month
+        details: one-time payment
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.

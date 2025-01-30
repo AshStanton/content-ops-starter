@@ -50,6 +50,7 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
+    elementId: services
     title:
       text: Our Services
       color: text-dark
@@ -61,13 +62,11 @@ sections:
     items:
       - type: FeaturedItem
         title: Ad Management (Basic Package)
-        subtitle: 500k
+        subtitle: 1,000–1,500 Per month
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Tech Apptitude can help you select the right ad platforms and tailor your ad strategy to fit the right demographic. We will help you edit your ads to hook more clients and monitor campaigns weekly or bi-weekly.
         actions: []
-        elementId: services
+        elementId: 
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -89,11 +88,11 @@ sections:
             self:
               borderRadius: x-large
       - title: Ad Optimization (Audit + Strategy)
-        subtitle: 20x
+        subtitle: 500-1,000 (one-time payment)
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          We will review current ad campaigns on your platforms and identify areas for improvement, run you a competitor analysis to assess competitors' ads and strategies to provide insights and suggest new optimisation strategies.
+          
+          Tech Apptitude will then walk you through our findings and guide you on how to implement them.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -113,35 +112,15 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Advanced Consulting/Coaching
-        subtitle: 200%
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
       - title: Premium Service Add-ons
-        subtitle: 200%
+        subtitle: Contact us for a quote
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Our Premium services include:
+
+          - Landing Page Optimization: Improve conversion rates by optimizing landing pages.
+          - Email List Building: We will help you generate leads and build email lists.
+          - Retargeting Campaigns: Set up retargeting ads to recapture users who didn’t convert initially.
+          - Social Media Strategy: Offer broader social media strategy services.
         image:
           url: /images/icon3.svg
           altText: Featured icon three

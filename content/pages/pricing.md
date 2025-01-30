@@ -77,7 +77,7 @@ sections:
         type: PricingPlan
       - title: Premium Service Add-ons
         price: Bespoke
-        details: per month
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.

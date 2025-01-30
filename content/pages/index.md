@@ -50,7 +50,6 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    elementId: services
     title:
       text: Our Services
       color: text-dark

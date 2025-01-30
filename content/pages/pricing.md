@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Ad Management (Basic Package)
         price: '1,000–1,500'
-        details: No credit card required
+        details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.

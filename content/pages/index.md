@@ -109,15 +109,15 @@ sections:
           Optimization
         text: >+
           *   **Comprehensive Campaign Audit**: We review your current ad
-          campaigns and performance metrics, identifying areas for improvement.
+          campaigns and identify areas for improvement.
 
 
           *   **Competitor Insights**: We analyze your competitors' ad
-          strategies, uncovering insights you can leverage to outperform them.
+          strategies to outperform them.
 
 
           *   **Actionable Optimization Plan**: A tailored strategy to refine ad
-          targeting, improve creative, adjust bids, and maximize your ROI.
+          targeting, adjust bids, and maximize your ROI.
 
 
           *   **Step-by-Step Implementation Guidance**: We provide clear
@@ -126,8 +126,6 @@ sections:
 
           *   **Follow-Up Monitoring**: One month of post-optimization
           monitoring to ensure continued performance and fine-tuning as needed.
-
-
 
         image:
           altText: Featured icon two

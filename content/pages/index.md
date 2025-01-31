@@ -81,7 +81,20 @@ sections:
           *   **Maximized ROI**: By continually optimizing your campaigns, we
           ensure that your advertising budget is being spent efficiently.
 
-        actions: []
+          *   **Performance Reporting**: Regular reports on ad performance, e.g.
+          click-through rates, impressions, and conversions to keep you informed
+          and make data-driven decisions.
+
+        actions:
+          - type: Button
+            label: Start Your Ad Campaign Today
+            altText: ''
+            url: /contact
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -103,21 +116,38 @@ sections:
             self:
               borderRadius: x-large
         tagline: '£500–£1,500 Per month'
-      - title: Ad and SEO Optimization
-        subtitle: Boost Your Visibility on the Internet
-        text: >-
-          We will review current ad campaigns on your platforms and identify
-          areas for improvement, run you a competitor analysis to assess
-          competitors' ads and strategies to provide insights and suggest new
-          optimisation strategies.
+      - title: Ad Optimization (Audit + Strategy)
+        subtitle: Maximize Your Ad Performance with Our Expert Audit & Optimization
+        text: >+
+          *   **Comprehensive Campaign Audit**: We review your current ad
+          campaigns and identify areas for improvement.
 
-          Tech Apptitude will then walk you through our findings and guide you
-          on how to implement them.
+
+          *   **Competitor Insights**: We analyze your competitors' ad
+          strategies to outperform them.
+
+
+          *   **Actionable Optimization Plan**: A tailored strategy to refine ad
+          targeting, adjust bids, and maximize your ROI.
+
+
+          *   **Optimization Recommendations**: Actionable strategies to improve
+          targeting, ad copy, and budget allocation.
+
         image:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Request Your Ad Audit Now
+            altText: ''
+            url: /contact
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -131,24 +161,39 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
+        tagline: 'From £1,000 (One-time fee)'
       - title: Bespoke Marketing
-        subtitle: Contact us for a quote
-        text: |+
-          These services may include:
+        subtitle: Get marketing services tailored to your needs
+        text: >+
+          *   **Landing Page Optimization**: We enhance your landing pages to
+          improve conversion rates, ensuring visitors are turned into leads.
 
-          *   Landing Page Optimization
 
-          *   Email List Building
+          *   **Email List Building**: Grow and nurture a high-quality email
+          list to reach engaged prospects.
 
-          *   Retargeting Campaigns
 
-          *   Social Media Strategy
+          *   **Retargeting Campaigns**: Re-engage previous visitors with ads
+          that speak directly to their interests and encourage conversions.
+
+
+          *   **Social Media Strategy**: We create a comprehensive social media
+          plan to build your brand and engage with your audience.
 
         image:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Request a Custom Marketing Plan
+            altText: ''
+            url: /contact
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -160,16 +205,8 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Get a quote
-        altText: ''
-        url: /#quote
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+        tagline: Contact us for a personalized quote
+    actions: []
     badge:
       label: This is your first step on getting noticed
       color: text-primary

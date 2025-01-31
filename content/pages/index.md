@@ -142,7 +142,7 @@ sections:
           - type: Button
             label: Request Your Ad Audit Now
             altText: ''
-            url: /contact
+            url: /#quote
             showIcon: false
             icon: arrowRight
             iconPosition: right

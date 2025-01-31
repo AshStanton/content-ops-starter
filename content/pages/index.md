@@ -186,7 +186,6 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-          url: /images/icon1.svg
         actions:
           - type: Button
             label: Request a Custom Marketing Plan

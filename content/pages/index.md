@@ -136,7 +136,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Bespoke Marketing
-        subtitle: Contact us for a quote
+        subtitle: Get marketing services tailored to your needs
         text: |+
           These services may include:
 

@@ -7,7 +7,9 @@ sections:
       text: Optimize Your Digital Marketing with Tailored Strategies
       color: text-dark
       type: TitleBlock
-    subtitle: Transform Your Digital Presence
+    subtitle: >-
+      We help businesses improve their online presence through expert ad
+      management, SEO analysis, and more.
     text: >
       TechApptitude helps you break through the barriers of digital marketing.
       With our specialized Meta advertising and SEO optimization services, we

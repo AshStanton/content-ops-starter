@@ -117,14 +117,6 @@ sections:
           *   **Actionable Optimization Plan**: A tailored strategy to refine ad
           targeting, adjust bids, and maximize your ROI.
 
-
-          *   **Step-by-Step Implementation Guidance**: We provide clear
-          instructions on how to apply optimization strategies for your ads.
-
-
-          *   **Follow-Up Monitoring**: One month of post-optimization
-          monitoring to ensure continued performance and fine-tuning as needed.
-
         image:
           altText: Featured icon two
           elementId: ''

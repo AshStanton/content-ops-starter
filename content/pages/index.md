@@ -89,7 +89,7 @@ sections:
           - type: Button
             label: Start Your Ad Campaign Today
             altText: ''
-            url: /contact
+            url: /#quote
             showIcon: false
             icon: arrowRight
             iconPosition: right

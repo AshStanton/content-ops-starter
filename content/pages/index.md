@@ -29,7 +29,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See our Pricing
+      - label: See Our Pricing
         altText: ''
         url: /pricing
         showIcon: true

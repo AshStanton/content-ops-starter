@@ -735,7 +735,7 @@ sections:
           type: TextareaFormControl
         - type: SelectFormControl
           name: service
-          label: Company size
+          label: Service you're interested in
           hideLabel: false
           defaultValue: Please choose...
           options: []

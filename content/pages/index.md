@@ -125,7 +125,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Premium Service Add-ons
+      - title: Bespoke Marketing
         subtitle: Contact us for a quote
         text: |+
           Our Premium services include:

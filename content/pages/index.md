@@ -100,7 +100,7 @@ sections:
             self:
               borderRadius: x-large
       - title: SEO Optimization
-        subtitle: '500-1,000 (one-time payment)'
+        subtitle: Boost Your Visibility on the Internet
         text: >-
           We will review current ad campaigns on your platforms and identify
           areas for improvement, run you a competitor analysis to assess

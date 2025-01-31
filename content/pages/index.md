@@ -128,7 +128,7 @@ sections:
       - title: Bespoke Marketing
         subtitle: Contact us for a quote
         text: |+
-          Our Premium services include:
+          These services may include:
 
           *   Landing Page Optimization
 

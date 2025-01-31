@@ -102,7 +102,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        tagline: '$500–$1,500 Per month'
+        tagline: '£500–£1,500 Per month'
       - title: Ad and SEO Optimization
         subtitle: Boost Your Visibility on the Internet
         text: >-

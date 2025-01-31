@@ -163,7 +163,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: This is your first step on getting noticed
       color: text-primary
       styles:
         self:

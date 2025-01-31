@@ -4,10 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Empowering Your Digital Journey
+      text: Optimize Your Digital Marketing with Tailored Strategies
       color: text-dark
       type: TitleBlock
-    subtitle: Transform Your Digital Presence
+    subtitle: >-
+      We help businesses improve their online presence through expert ad
+      management, SEO analysis, and more.
     text: >
       TechApptitude helps you break through the barriers of digital marketing.
       With our specialized Meta advertising and SEO optimization services, we
@@ -67,15 +69,24 @@ sections:
     subtitle: Marketing services for every need
     items:
       - type: FeaturedItem
-        title: Ad Management (Basic Package)
-        subtitle: '1,000–1,500 Per month'
-        text: >
+        title: Ad Campaign Management
+        subtitle: Drive More Targeted Traffic with Expert Ads
+        text: >+
+          *   **Platform Selection**: We help you choose the best advertising
+          platforms based on your business needs.
 
-          At Tech Apptitude, we help you choose the right ad platforms and
-          tailor your strategy to reach the perfect audience. Our team will
-          optimize your ads to attract more clients and monitor the performance
-          of your campaigns on a weekly or bi-weekly basis to ensure continuous
-          improvement.
+
+          *   **Ad Creation**: We design compelling, high-conversion ads that
+          capture the attention of your target audience.
+
+
+          *   **Campaign Monitoring**: Weekly or bi-weekly campaign monitoring
+          to ensure continuous improvement and optimal performance.
+
+
+          *   **Target Audience Optimization**: We identify and optimize ad
+          targeting to reach the most relevant audiences.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -97,8 +108,8 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Ad Optimization (Audit + Strategy)
-        subtitle: '500-1,000 (one-time payment)'
+      - title: Ad and SEO Optimization
+        subtitle: Boost Your Visibility on the Internet
         text: >-
           We will review current ad campaigns on your platforms and identify
           areas for improvement, run you a competitor analysis to assess

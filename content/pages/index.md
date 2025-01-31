@@ -87,7 +87,7 @@ sections:
 
         actions:
           - type: Button
-            label: Get started
+            label: Start Your Ad Campaign Today
             altText: ''
             url: /contact
             showIcon: false

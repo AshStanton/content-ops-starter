@@ -29,7 +29,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Get a Personalized Marketing Plan
+      - label: See our Pricing
         altText: ''
         url: /pricing
         showIcon: true

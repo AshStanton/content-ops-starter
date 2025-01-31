@@ -69,7 +69,7 @@ sections:
     subtitle: Marketing services for every need
     items:
       - type: FeaturedItem
-        title: Ad Management (Basic Package)
+        title: Ad Campaign Management
         subtitle: '1,000–1,500 Per month'
         text: >
 

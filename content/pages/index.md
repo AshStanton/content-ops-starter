@@ -205,16 +205,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
         tagline: Contact us for a personalized quote
-    actions:
-      - label: Get a quote
-        altText: ''
-        url: /#quote
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: This is your first step on getting noticed
       color: text-primary

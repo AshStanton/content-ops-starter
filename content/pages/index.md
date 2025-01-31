@@ -70,7 +70,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Ad Campaign Management
-        subtitle: '1,000–1,500 Per month'
+        subtitle: Drive More Targeted Traffic with Expert Ads
         text: >
 
           At Tech Apptitude, we help you choose the right ad platforms and

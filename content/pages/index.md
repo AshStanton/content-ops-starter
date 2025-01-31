@@ -660,7 +660,7 @@ sections:
           name: Addresses
           label: Website / social media addresses
           hideLabel: false
-          placeholder: Your name
+          placeholder: 'Please enter your addresses, separated by "/"'
           isRequired: true
           width: full
       elementId: contact-form

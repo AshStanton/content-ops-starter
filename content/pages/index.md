@@ -107,14 +107,28 @@ sections:
         subtitle: >-
           Maximize Your Ad Campaign Performance with Our Expert Audit &
           Optimization
-        text: >-
-          We will review current ad campaigns on your platforms and identify
-          areas for improvement, run you a competitor analysis to assess
-          competitors' ads and strategies to provide insights and suggest new
-          optimisation strategies.
+        text: >+
+          *   **Comprehensive Campaign Audit**: We review your current ad
+          campaigns and performance metrics, identifying areas for improvement.
 
-          Tech Apptitude will then walk you through our findings and guide you
-          on how to implement them.
+
+          *   **Competitor Insights**: We analyze your competitors' ad
+          strategies, uncovering insights you can leverage to outperform them.
+
+
+          *   **Actionable Optimization Plan**: A tailored strategy to refine ad
+          targeting, improve creative, adjust bids, and maximize your ROI.
+
+
+          *   **Step-by-Step Implementation Guidance**: We provide clear
+          instructions on how to apply optimization strategies for your ads.
+
+
+          *   **Follow-Up Monitoring**: One month of post-optimization
+          monitoring to ensure continued performance and fine-tuning as needed.
+
+
+
         image:
           altText: Featured icon two
           elementId: ''

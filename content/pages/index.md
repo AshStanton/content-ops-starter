@@ -188,7 +188,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Request a Personalized Strategy
+            label: Request a Personalized Marketing Plan
             altText: ''
             url: /contact
             showIcon: false

@@ -656,6 +656,13 @@ sections:
             - Bespoke Marketing
           isRequired: true
           width: full
+        - type: TextFormControl
+          name: Business name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
       elementId: contact-form
       styles:
         self:

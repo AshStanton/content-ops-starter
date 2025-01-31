@@ -103,7 +103,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: '£500–£1,500 Per month'
-      - title: Ad and SEO Optimization
+      - title: Ad Optimization (Audit + Strategy)
         subtitle: Boost Your Visibility on the Internet
         text: >-
           We will review current ad campaigns on your platforms and identify

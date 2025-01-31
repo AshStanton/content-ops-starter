@@ -618,8 +618,6 @@ sections:
       type: TitleBlock
     subtitle: Section with a form subtitle
     text: >
-      **Looking to enhance your digital marketing? We’re here to help!**
-
       Fill out the form on the right, and we’ll get back to you with a
       personalized quote.
 

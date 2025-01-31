@@ -613,7 +613,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Contact Us
       color: text-dark
       type: TitleBlock
     subtitle: Looking to enhance your digital marketing? We’re here to help!

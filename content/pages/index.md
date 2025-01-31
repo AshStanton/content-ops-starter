@@ -117,6 +117,10 @@ sections:
           *   **Actionable Optimization Plan**: A tailored strategy to refine ad
           targeting, adjust bids, and maximize your ROI.
 
+
+          *   **Optimization Recommendations**: Actionable strategies to improve
+          targeting, ad copy, and budget allocation.
+
         image:
           altText: Featured icon two
           elementId: ''

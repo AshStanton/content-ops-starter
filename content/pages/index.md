@@ -71,7 +71,7 @@ sections:
       - type: FeaturedItem
         title: Ad Campaign Management
         subtitle: Drive More Targeted Traffic with Expert Ads
-        text: >
+        text: >+
           *   **Platform Selection**: We help you choose the best advertising
           platforms (Google, Facebook, LinkedIn, etc.) based on your business
           needs.
@@ -87,6 +87,7 @@ sections:
 
           *   **Target Audience Optimization**: We identify and optimize ad
           targeting to reach the most relevant audiences.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

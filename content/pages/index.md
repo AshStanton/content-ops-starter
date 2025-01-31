@@ -89,7 +89,7 @@ sections:
           - type: Button
             label: Start Your Ad Campaign Today
             altText: ''
-            url: /contact
+            url: /#quote
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -142,7 +142,7 @@ sections:
           - type: Button
             label: Request Your Ad Audit Now
             altText: ''
-            url: /contact
+            url: /#quote
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -188,7 +188,7 @@ sections:
           - type: Button
             label: Request a Custom Marketing Plan
             altText: ''
-            url: /contact
+            url: /#quote
             showIcon: false
             icon: arrowRight
             iconPosition: right

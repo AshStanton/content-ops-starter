@@ -137,16 +137,24 @@ sections:
         type: FeaturedItem
       - title: Bespoke Marketing
         subtitle: Get marketing services tailored to your needs
-        text: |+
+        text: >+
           These services may include:
 
-          *   Landing Page Optimization
 
-          *   Email List Building
+          *   **Landing Page Optimization**: We enhance your landing pages to
+          improve conversion rates, ensuring visitors are turned into leads.
 
-          *   Retargeting Campaigns
 
-          *   Social Media Strategy
+          *   **Email List Building**: Grow and nurture a high-quality email
+          list to reach engaged prospects.
+
+
+          *   **Retargeting Campaigns**: Re-engage previous visitors with ads
+          that speak directly to their interests and encourage conversions.
+
+
+          *   **Social Media Strategy**: We create a comprehensive social media
+          plan to build your brand and engage with your audience.
 
         image:
           altText: Featured icon three

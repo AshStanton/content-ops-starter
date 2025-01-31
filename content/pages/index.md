@@ -73,11 +73,13 @@ sections:
         subtitle: Drive More Targeted Traffic with Expert Ads
         text: >+
           *   **Drive Targeted Traffic**: Reach the right audience with ads that
-          speak directly to their needs, increasing qualified leads.*  
-          **Increase Conversions**: Our ad strategies are designed to not only
-          drive traffic but also convert visitors into paying customers.*  
-          **Maximized ROI**: By continually optimizing your campaigns, we ensure
-          that your advertising budget is being spent efficiently.
+          speak directly to their needs, increasing qualified leads.
+
+          *   **Increase Conversions**: Our ad strategies are designed to not
+          only drive traffic but also convert visitors into paying customers.
+
+          *   **Maximized ROI**: By continually optimizing your campaigns, we
+          ensure that your advertising budget is being spent efficiently.
 
         actions: []
         elementId: null

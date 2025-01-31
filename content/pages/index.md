@@ -140,7 +140,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: Request Your Ad Audit Now
             altText: ''
             url: /contact
             showIcon: false

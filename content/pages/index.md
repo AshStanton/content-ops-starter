@@ -657,7 +657,7 @@ sections:
           isRequired: true
           width: full
         - type: TextFormControl
-          name: Business name
+          name: Addresses
           label: Name
           hideLabel: true
           placeholder: Your name

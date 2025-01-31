@@ -9,7 +9,14 @@ sections:
       type: TitleBlock
     subtitle: Transform Your Digital Presence
     text: >
-      TechApptitude helps you break through the barriers of digital marketing. With our specialized Meta advertising and SEO optimization services, we ensure your business or brand reaches its full potential. Whether you're a small business or an influencer, we craft strategies that maximize visibility, engagement, and growth—allowing you to focus on what matters most: success. Our tailored services and expert guidance make digital marketing seamless, empowering you to stay ahead in a competitive online world.
+      TechApptitude helps you break through the barriers of digital marketing.
+      With our specialized Meta advertising and SEO optimization services, we
+      ensure your business or brand reaches its full potential. Whether you're a
+      small business or an influencer, we craft strategies that maximize
+      visibility, engagement, and growth—allowing you to focus on what matters
+      most: success. Our tailored services and expert guidance make digital
+      marketing seamless, empowering you to stay ahead in a competitive online
+      world.
     actions:
       - label: See Services
         altText: ''
@@ -61,11 +68,16 @@ sections:
     items:
       - type: FeaturedItem
         title: Ad Management (Basic Package)
-        subtitle: 1,000–1,500 Per month
-        text: >-
-          Tech Apptitude can help you select the right ad platforms and tailor your ad strategy to fit the right demographic. We will help you edit your ads to hook more clients and monitor campaigns weekly or bi-weekly.
+        subtitle: '1,000–1,500 Per month'
+        text: >
+
+          At Tech Apptitude, we help you choose the right ad platforms and
+          tailor your strategy to reach the perfect audience. Our team will
+          optimize your ads to attract more clients and monitor the performance
+          of your campaigns on a weekly or bi-weekly basis to ensure continuous
+          improvement.
         actions: []
-        elementId: 
+        elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -82,18 +94,20 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
           styles:
             self:
               borderRadius: x-large
       - title: Ad Optimization (Audit + Strategy)
-        subtitle: 500-1,000 (one-time payment)
+        subtitle: '500-1,000 (one-time payment)'
         text: >-
-          We will review current ad campaigns on your platforms and identify areas for improvement, run you a competitor analysis to assess competitors' ads and strategies to provide insights and suggest new optimisation strategies.
+          We will review current ad campaigns on your platforms and identify
+          areas for improvement, run you a competitor analysis to assess
+          competitors' ads and strategies to provide insights and suggest new
+          optimisation strategies.
 
-          Tech Apptitude will then walk you through our findings and guide you on how to implement them.
+          Tech Apptitude will then walk you through our findings and guide you
+          on how to implement them.
         image:
-          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -111,16 +125,20 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Premium Service Add-ons
+      - title: Bespoke Marketing
         subtitle: Contact us for a quote
-        text: >-
-          Our Premium services include:
-          - Landing Page Optimization: Improve conversion rates by optimizing landing pages.
-          - Email List Building: We will help you generate leads and build email lists.
-          - Retargeting Campaigns: Set up retargeting ads to recapture users who didn’t convert initially.
-          - Social Media Strategy: Offer broader social media strategy services.
+        text: |+
+          These services may include:
+
+          *   Landing Page Optimization
+
+          *   Email List Building
+
+          *   Retargeting Campaigns
+
+          *   Social Media Strategy
+
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -137,9 +155,9 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Button
+      - label: Get a quote
         altText: ''
-        url: /
+        url: /#quote
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -147,7 +165,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: This is your first step on getting noticed
       color: text-primary
       styles:
         self:
@@ -166,56 +184,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -352,42 +320,6 @@ sections:
       self:
         alignItems: center
     type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -433,7 +365,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -462,7 +395,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -521,7 +455,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -550,7 +485,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -644,8 +580,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
@@ -678,15 +615,23 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Request a Quote
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Looking to enhance your digital marketing? We’re here to help!
+    text: >
+      Fill out the form on the right, and we’ll get back to you with a
+      personalized quote.
+
+
+      Before we start, we’ll assess your marketing needs to ensure we provide
+      the best solution for you.
+
+
+      Simply enter your brand name, website, and social media links (separated
+      by a "/") in the addresses box. Let us know what marketing challenges
+      you're facing and the service you're interested in, and we’ll take it from
+      there!
     media:
       fields:
         - name: name
@@ -703,12 +648,31 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
+        - type: TextFormControl
+          name: Addresses
+          label: Website / social media addresses
+          hideLabel: false
+          placeholder: 'Please enter your addresses, separated by "/"'
+          isRequired: true
+          width: full
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Tell us about your brand
           width: full
           type: TextareaFormControl
+          isRequired: true
+        - type: SelectFormControl
+          name: service
+          label: Service you're interested in
+          hideLabel: false
+          defaultValue: Please choose...
+          options:
+            - Ad Management
+            - Ad Optimization
+            - Bespoke Marketing
+          isRequired: true
+          width: full
       elementId: contact-form
       styles:
         self:
@@ -736,6 +700,7 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    elementId: quote
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.

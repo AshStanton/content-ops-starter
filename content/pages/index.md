@@ -104,9 +104,7 @@ sections:
               borderRadius: x-large
         tagline: '£500–£1,500 Per month'
       - title: Ad Optimization (Audit + Strategy)
-        subtitle: >-
-          Maximize Your Ad Campaign Performance with Our Expert Audit &
-          Optimization
+        subtitle: Maximize Your Ad Performance with Our Expert Audit & Optimization
         text: >+
           *   **Comprehensive Campaign Audit**: We review your current ad
           campaigns and identify areas for improvement.

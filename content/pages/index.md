@@ -617,11 +617,21 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      **Looking to enhance your digital marketing? We’re here to help!**
+
+      Fill out the form on the right, and we’ll get back to you with a
+      personalized quote.
+
+
+      Before we start, we’ll assess your marketing needs to ensure we provide
+      the best solution for you.
+
+
+      Simply enter your brand name, website, and social media links (separated
+      by a "/") in the addresses box. Let us know what marketing challenges
+      you're facing and the service you're interested in, and we’ll take it from
+      there!
     media:
       fields:
         - name: name

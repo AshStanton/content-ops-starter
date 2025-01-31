@@ -638,6 +638,13 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
+        - type: TextFormControl
+          name: Addresses
+          label: Website / social media addresses
+          hideLabel: false
+          placeholder: 'Please enter your addresses, separated by "/"'
+          isRequired: true
+          width: full
         - name: message
           label: Message
           hideLabel: true
@@ -654,13 +661,6 @@ sections:
             - Ad Management
             - Ad Optimization
             - Bespoke Marketing
-          isRequired: true
-          width: full
-        - type: TextFormControl
-          name: Addresses
-          label: Website / social media addresses
-          hideLabel: false
-          placeholder: 'Please enter your addresses, separated by "/"'
           isRequired: true
           width: full
       elementId: contact-form

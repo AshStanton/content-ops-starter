@@ -72,12 +72,21 @@ sections:
         title: Ad Campaign Management
         subtitle: Drive More Targeted Traffic with Expert Ads
         text: >
+          *   **Platform Selection**: We help you choose the best advertising
+          platforms (Google, Facebook, LinkedIn, etc.) based on your business
+          needs.
 
-          At Tech Apptitude, we help you choose the right ad platforms and
-          tailor your strategy to reach the perfect audience. Our team will
-          optimize your ads to attract more clients and monitor the performance
-          of your campaigns on a weekly or bi-weekly basis to ensure continuous
-          improvement.
+
+          *   **Ad Creation**: We design compelling, high-conversion ads that
+          capture the attention of your target audience.
+
+
+          *   **Campaign Monitoring**: Weekly or bi-weekly campaign monitoring
+          to ensure continuous improvement and optimal performance.
+
+
+          *   **Target Audience Optimization**: We identify and optimize ad
+          targeting to reach the most relevant audiences.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

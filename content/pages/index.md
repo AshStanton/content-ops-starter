@@ -645,13 +645,6 @@ sections:
           placeholder: 'Please enter your addresses, separated by "/"'
           isRequired: true
           width: full
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell us about your brand
-          width: full
-          type: TextareaFormControl
-          isRequired: true
         - type: SelectFormControl
           name: service
           label: Service you're interested in
@@ -663,6 +656,13 @@ sections:
             - Bespoke Marketing
           isRequired: true
           width: full
+        - name: message
+          label: Message
+          hideLabel: true
+          placeholder: Tell us about your brand
+          width: full
+          type: TextareaFormControl
+          isRequired: true
       elementId: contact-form
       styles:
         self:

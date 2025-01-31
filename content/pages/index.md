@@ -69,7 +69,7 @@ sections:
     subtitle: Marketing services for every need
     items:
       - type: FeaturedItem
-        title: Ad Campaign Management
+        title: Ad Management
         subtitle: Drive More Targeted Traffic with Expert Ads
         text: >+
           *   **Platform Selection**: We help you choose the best advertising

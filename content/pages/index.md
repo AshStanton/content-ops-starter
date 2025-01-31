@@ -188,7 +188,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: Request a Personalized Strategy
             altText: ''
             url: /contact
             showIcon: false

@@ -658,7 +658,7 @@ sections:
           width: full
         - type: TextFormControl
           name: Addresses
-          label: Name
+          label: Website / social media addresses
           hideLabel: false
           placeholder: Your name
           isRequired: true

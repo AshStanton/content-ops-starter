@@ -733,6 +733,14 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
+        - type: SelectFormControl
+          name: service
+          label: Company size
+          hideLabel: false
+          defaultValue: Please choose...
+          options: []
+          isRequired: false
+          width: full
       elementId: contact-form
       styles:
         self:

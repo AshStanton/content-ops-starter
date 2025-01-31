@@ -639,7 +639,7 @@ sections:
           width: full
           type: EmailFormControl
         - name: message
-          label: Tell us about your company
+          label: Tell us about your brand
           hideLabel: true
           placeholder: Your message
           width: full

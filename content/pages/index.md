@@ -738,7 +738,8 @@ sections:
           label: Service you're interested in
           hideLabel: false
           defaultValue: Please choose...
-          options: []
+          options:
+            - ''
           isRequired: false
           width: full
       elementId: contact-form

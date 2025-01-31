@@ -644,6 +644,7 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
+          isRequired: true
         - type: SelectFormControl
           name: service
           label: Service you're interested in

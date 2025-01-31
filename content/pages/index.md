@@ -73,8 +73,7 @@ sections:
         subtitle: Drive More Targeted Traffic with Expert Ads
         text: >+
           *   **Platform Selection**: We help you choose the best advertising
-          platforms (Google, Facebook, LinkedIn, etc.) based on your business
-          needs.
+          platforms based on your business needs.
 
 
           *   **Ad Creation**: We design compelling, high-conversion ads that

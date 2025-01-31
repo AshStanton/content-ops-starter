@@ -641,7 +641,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Tell us about your brand
           width: full
           type: TextareaFormControl
           isRequired: true

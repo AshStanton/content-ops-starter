@@ -106,7 +106,6 @@ sections:
           Tech Apptitude will then walk you through our findings and guide you
           on how to implement them.
         image:
-          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock

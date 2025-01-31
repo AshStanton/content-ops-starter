@@ -740,7 +740,7 @@ sections:
           defaultValue: Please choose...
           options:
             - Ad Management
-            - ''
+            - Ad Optimization
           isRequired: false
           width: full
       elementId: contact-form

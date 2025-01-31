@@ -164,9 +164,6 @@ sections:
       - title: Bespoke Marketing
         subtitle: Get marketing services tailored to your needs
         text: >+
-          These services may include:
-
-
           *   **Landing Page Optimization**: We enhance your landing pages to
           improve conversion rates, ensuring visitors are turned into leads.
 

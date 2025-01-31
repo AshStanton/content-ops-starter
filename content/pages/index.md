@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Empowering Your Digital Journey
+      text: Optimize Your Digital Marketing with Tailored Strategies
       color: text-dark
       type: TitleBlock
     subtitle: Transform Your Digital Presence

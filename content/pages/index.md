@@ -188,7 +188,7 @@ sections:
           - type: Button
             label: Request a Custom Marketing Plan
             altText: ''
-            url: /contact
+            url: /#quote
             showIcon: false
             icon: arrowRight
             iconPosition: right

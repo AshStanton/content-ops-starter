@@ -99,7 +99,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Ad Optimization (Audit + Strategy)
+      - title: SEO Optimization
         subtitle: '500-1,000 (one-time payment)'
         text: >-
           We will review current ad campaigns on your platforms and identify

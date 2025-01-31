@@ -81,6 +81,10 @@ sections:
           *   **Maximized ROI**: By continually optimizing your campaigns, we
           ensure that your advertising budget is being spent efficiently.
 
+          *   **Performance Reporting**: Regular reports on ad performance, e.g.
+          click-through rates, impressions, and conversions to keep you informed
+          and make data-driven decisions.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

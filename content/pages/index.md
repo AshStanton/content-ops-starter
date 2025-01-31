@@ -69,23 +69,17 @@ sections:
     subtitle: Marketing services for every need
     items:
       - type: FeaturedItem
-        title: Ad Campaign Management
+        title: Ad Management
         subtitle: Drive More Targeted Traffic with Expert Ads
         text: >+
-          *   **Platform Selection**: We help you choose the best advertising
-          platforms based on your business needs.
+          *   **Drive Targeted Traffic**: Reach the right audience with ads that
+          speak directly to their needs, increasing qualified leads.
 
+          *   **Increase Conversions**: Our ad strategies are designed to not
+          only drive traffic but also convert visitors into paying customers.
 
-          *   **Ad Creation**: We design compelling, high-conversion ads that
-          capture the attention of your target audience.
-
-
-          *   **Campaign Monitoring**: Weekly or bi-weekly campaign monitoring
-          to ensure continuous improvement and optimal performance.
-
-
-          *   **Target Audience Optimization**: We identify and optimize ad
-          targeting to reach the most relevant audiences.
+          *   **Maximized ROI**: By continually optimizing your campaigns, we
+          ensure that your advertising budget is being spent efficiently.
 
         actions: []
         elementId: null
@@ -108,6 +102,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+        tagline: '£500–£1,500 Per month'
       - title: Ad and SEO Optimization
         subtitle: Boost Your Visibility on the Internet
         text: >-

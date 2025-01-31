@@ -638,7 +638,7 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
+        - name: Tell us about your brand
           label: Tell us about your brand
           hideLabel: true
           placeholder: Your message

@@ -137,7 +137,6 @@ sections:
           *   Social Media Strategy
 
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock

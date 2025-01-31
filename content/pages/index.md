@@ -742,7 +742,7 @@ sections:
             - Ad Management
             - Ad Optimization
             - Bespoke Marketing
-          isRequired: false
+          isRequired: true
           width: full
       elementId: contact-form
       styles:

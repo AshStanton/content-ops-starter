@@ -153,7 +153,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Button
+      - label: Get a quote
         altText: ''
         url: /
         showIcon: false

@@ -85,7 +85,16 @@ sections:
           click-through rates, impressions, and conversions to keep you informed
           and make data-driven decisions.
 
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /contact
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:

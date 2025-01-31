@@ -69,11 +69,13 @@ sections:
       - type: FeaturedItem
         title: Ad Management (Basic Package)
         subtitle: '1,000–1,500 Per month'
-        text: >-
-          Tech Apptitude can help you select the right ad platforms and tailor
-          your ad strategy to fit the right demographic. We will help you edit
-          your ads to hook more clients and monitor campaigns weekly or
-          bi-weekly.
+        text: >
+
+          At Tech Apptitude, we help you choose the right ad platforms and
+          tailor your strategy to reach the perfect audience. Our team will
+          optimize your ads to attract more clients and monitor the performance
+          of your campaigns on a weekly or bi-weekly basis to ensure continuous
+          improvement.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

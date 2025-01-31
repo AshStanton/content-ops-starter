@@ -659,7 +659,7 @@ sections:
         - type: TextFormControl
           name: Addresses
           label: Name
-          hideLabel: true
+          hideLabel: false
           placeholder: Your name
           isRequired: true
           width: full

@@ -164,6 +164,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        tagline: Contact us for a personalized quote
     actions:
       - label: Get a quote
         altText: ''

@@ -161,6 +161,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
+        tagline: 'From £1,000 (One-time fee)'
       - title: Bespoke Marketing
         subtitle: Get marketing services tailored to your needs
         text: >+

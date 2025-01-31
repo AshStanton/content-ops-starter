@@ -155,7 +155,7 @@ sections:
     actions:
       - label: Get a quote
         altText: ''
-        url: /
+        url: /#
         showIcon: false
         icon: arrowRight
         iconPosition: right

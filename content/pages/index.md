@@ -72,20 +72,12 @@ sections:
         title: Ad Management
         subtitle: Drive More Targeted Traffic with Expert Ads
         text: >+
-          *   **Platform Selection**: We help you choose the best advertising
-          platforms based on your business needs.
-
-
-          *   **Ad Creation**: We design compelling, high-conversion ads that
-          capture the attention of your target audience.
-
-
-          *   **Campaign Monitoring**: Weekly or bi-weekly campaign monitoring
-          to ensure continuous improvement and optimal performance.
-
-
-          *   **Target Audience Optimization**: We identify and optimize ad
-          targeting to reach the most relevant audiences.
+          *   **Drive Targeted Traffic**: Reach the right audience with ads that
+          speak directly to their needs, increasing qualified leads.*  
+          **Increase Conversions**: Our ad strategies are designed to not only
+          drive traffic but also convert visitors into paying customers.*  
+          **Maximized ROI**: By continually optimizing your campaigns, we ensure
+          that your advertising budget is being spent efficiently.
 
         actions: []
         elementId: null

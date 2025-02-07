@@ -680,7 +680,7 @@ sections:
         - name: name
           label: Business Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Your name or business name
           isRequired: true
           width: full
           type: TextFormControl

@@ -695,7 +695,7 @@ sections:
           name: Addresses
           label: Website / social media addresses
           hideLabel: false
-          placeholder: 'Please enter your addresses, separated by "/"'
+          placeholder: Please enter your address
           isRequired: true
           width: full
         - name: message

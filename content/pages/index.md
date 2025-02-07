@@ -727,7 +727,7 @@ sections:
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
-          borderRadius: medium
+          borderRadius: large
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl

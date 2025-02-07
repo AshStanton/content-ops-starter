@@ -699,7 +699,7 @@ sections:
           isRequired: true
           width: full
         - name: message
-          label: What Service Do You Need?
+          label: What do you need?
           hideLabel: false
           placeholder: Tell us about your brand
           width: full

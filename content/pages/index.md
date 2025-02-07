@@ -700,7 +700,7 @@ sections:
           width: full
         - name: message
           label: Message
-          hideLabel: true
+          hideLabel: false
           placeholder: Tell us about your brand
           width: full
           type: TextareaFormControl

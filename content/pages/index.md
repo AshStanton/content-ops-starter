@@ -695,7 +695,7 @@ sections:
           name: Addresses
           label: Website URL
           hideLabel: false
-          placeholder: Please enter your address
+          placeholder: Please enter your website
           isRequired: true
           width: full
         - name: message

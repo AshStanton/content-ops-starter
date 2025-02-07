@@ -724,7 +724,7 @@ sections:
             - pb-6
             - pl-6
             - pr-6
-          borderColor: border-neutral
+          borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
           borderRadius: x-large

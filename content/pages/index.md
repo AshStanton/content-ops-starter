@@ -678,7 +678,7 @@ sections:
     media:
       fields:
         - name: name
-          label: Name
+          label: Business Name
           hideLabel: true
           placeholder: Your name
           isRequired: true

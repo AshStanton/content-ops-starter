@@ -693,7 +693,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: Addresses
-          label: Website / social media addresses
+          label: Website URL
           hideLabel: false
           placeholder: Please enter your address
           isRequired: true

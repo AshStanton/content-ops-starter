@@ -678,9 +678,9 @@ sections:
     media:
       fields:
         - name: name
-          label: Name
+          label: Business Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Your name or business name
           isRequired: true
           width: full
           type: TextFormControl
@@ -693,14 +693,14 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: Addresses
-          label: Website / social media addresses
+          label: Website URL
           hideLabel: false
-          placeholder: 'Please enter your addresses, separated by "/"'
+          placeholder: Please enter your website
           isRequired: true
           width: full
         - name: message
-          label: Message
-          hideLabel: true
+          label: What do you need?
+          hideLabel: false
           placeholder: Tell us about your brand
           width: full
           type: TextareaFormControl
@@ -727,7 +727,7 @@ sections:
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
-          borderRadius: large
+          borderRadius: x-large
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl

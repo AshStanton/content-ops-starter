@@ -85,7 +85,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "/dashboard",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",

@@ -1,7 +1,7 @@
 {
     "logo": {
-        "url": "/images/techapptitude4.svg",
-        "altText": "Logo dark",
+        "url": "/images/techapptitude5.svg",
+        "altText": "Tech Apptitude",
         "styles": {
             "self": {
                 "margin": [
@@ -30,12 +30,23 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "Dashboard",
+            "altText": "",
+            "url": "/dashboard",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
                 {
                     "label": "Dropdown item",
-                    "url": "/",
+                    "url": "/dashboard",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -74,7 +85,7 @@
         },
         {
             "label": "Log in",
-            "url": "/",
+            "url": "/dashboard",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",

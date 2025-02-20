@@ -46,7 +46,7 @@
             "links": [
                 {
                     "label": "Dropdown item",
-                    "url": "/dashboard",
+                    "url": "",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",

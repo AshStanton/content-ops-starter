@@ -33,7 +33,7 @@
             "type": "Link",
             "label": "Dashboard",
             "altText": "",
-            "url": "",
+            "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",

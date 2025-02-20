@@ -33,7 +33,7 @@
             "type": "Link",
             "label": "Dashboard",
             "altText": "",
-            "url": "/dashboard",
+            "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -46,7 +46,7 @@
             "links": [
                 {
                     "label": "Dropdown item",
-                    "url": "/dashboard",
+                    "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
